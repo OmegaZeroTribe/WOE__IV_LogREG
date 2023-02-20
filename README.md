@@ -1,2 +1,2 @@
 # WOE__IV_LogREG
-mini project credit scoring(good, bad) 
+mini project  use LogisticRegression to predict credit scoring(good, bad) 
